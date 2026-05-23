@@ -14,7 +14,7 @@ I use GitHub to share my automation scripts, cloud labs, networking projects, an
 - **Management & Monitoring:** Microsoft Endpoint Manager (Intune/SCCM), SolarWinds, Nagios, Icinga  
 - **Networking & Security:** VPN, Cisco Duo, Firewall configurations, Patch Management, Endpoint Security  
 - **Cloud:** AWS (EC2, S3, IAM, CloudWatch)  
-- **Automation:** PowerShell, Bash  
+- **Automation:** PowerShell, Bash, Terraform
 - **Applications:** Office 365, VMware Horizon, SaaS, MDM  
 - **Compliance:** HIPAA, HL7, Security+  
 - **Tools:** Jira, Remedy, Footprints, Maximo, Track-It
