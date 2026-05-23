@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**Deeamos200212/Deeamos200212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 # DanfordAmos-README.md
 # 👋 Hi, I'm Danford Amos
 
