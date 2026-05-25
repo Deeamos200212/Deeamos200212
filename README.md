@@ -49,6 +49,7 @@ Designed and deployed a custom VPC with public/private subnets, NAT Gateway, rou
 
 ### 🟦 EC2 Reverse Proxy NGINX Deployment with Terraform
 A fully automated AWS infrastructure deployment using Terraform, featuring:
+
 Custom VPC
 
 Public & private subnets
