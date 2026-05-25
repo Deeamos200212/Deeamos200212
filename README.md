@@ -10,6 +10,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Admin-FCC624?logo=linux&logoColor=black)  
 ![security +](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)
+![network +] (https://img.shields.io/badge/CompTIA-Network%2B-blue?logo=comptia&logoColor=white)
 
 
 I use GitHub to share my automation scripts, cloud labs, networking projects, and continuous learning journey.
