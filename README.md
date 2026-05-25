@@ -47,8 +47,17 @@ Automated build, test, and deploy pipeline using CodePipeline, CodeBuild, and Co
 ### 🔒 **AWS VPC Networking Lab**
 Designed and deployed a custom VPC with public/private subnets, NAT Gateway, route tables, and EC2 instances.
 
-🟦 EC2 Reverse Proxy NGINX Deployment with Terraform
+### 🟦 EC2 Reverse Proxy NGINX Deployment with Terraform
 A fully automated AWS infrastructure deployment using Terraform, featuring:
+Custom VPC
+
+Public & private subnets
+
+Routing & security groups
+
+Automated provisioning & configuration
+
+EC2 instance running NGINX as a reverse proxy
 
 ---
 
