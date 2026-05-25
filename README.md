@@ -4,6 +4,13 @@
 ### IT Support Specialist • Systems & Endpoint Administrator • AWS Cloud Enthusiast  
 15+ years supporting large-scale **government, healthcare, and enterprise** environments. I specialize in **Windows & Linux administration**, **Active Directory**, **endpoint security**, **automation**, and **cloud technologies** like AWS.
 
+![Deeamos200212](https://komarev.com/ghpvc/?username=Deeamos200212&color=blue) 
+![AmazonAWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-5C4EE5?logo=terraform&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Admin-FCC624?logo=linux&logoColor=black)  
+![security +](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)
+
 
 I use GitHub to share my automation scripts, cloud labs, networking projects, and continuous learning journey.
 
@@ -39,6 +46,9 @@ Automated build, test, and deploy pipeline using CodePipeline, CodeBuild, and Co
 
 ### 🔒 **AWS VPC Networking Lab**
 Designed and deployed a custom VPC with public/private subnets, NAT Gateway, route tables, and EC2 instances.
+
+🟦 EC2 Reverse Proxy NGINX Deployment with Terraform
+A fully automated AWS infrastructure deployment using Terraform, featuring:
 
 ---
 
