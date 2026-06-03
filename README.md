@@ -25,7 +25,7 @@ I use GitHub to share my automation scripts, cloud labs, networking projects, an
 - **Networking & Security:** VPN, Cisco Duo, Firewall configurations, Patch Management, Endpoint Security  
 - **Cloud:** AWS (EC2, S3, IAM, CloudWatch)  
 - **Automation:** PowerShell, Bash, Terraform
-- **Databases: SQL (queries, joins, data analysis, reporting)
+- **Databases:** SQL (queries, joins, data analysis, reporting)
 - **Applications:** Office 365, VMware Horizon, SaaS, MDM  
 - **Compliance:** HIPAA, HL7, Security+  
 - **Tools:** Jira, Remedy, Footprints, Maximo, Track-It
